@@ -1,0 +1,3 @@
+server: registry.eng.aserto.com
+username: gp-demo
+repo: gp-demo/policy-peoplefinder-abac
